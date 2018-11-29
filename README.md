@@ -1,1 +1,1 @@
-# bug-bounty-write-ups
+# bug-bounty-writeups
