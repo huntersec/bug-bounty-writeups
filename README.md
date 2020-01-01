@@ -1,4 +1,4 @@
-# bug-bounty-writeups
+# writeup日知录
 
 - [XSS](#XSS)
 - [CSRF](#CSRF)
